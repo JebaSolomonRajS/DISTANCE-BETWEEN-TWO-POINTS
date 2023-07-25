@@ -16,7 +16,7 @@ Mention the coordinates as given
 
 ### Step 3:
 
-Substitute the values in the distance formula ![formula](/formula.jpg)
+Substitute the values in the distance formula ![formula](/formula1.jpg)
 
 ### Step 4:
 
