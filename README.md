@@ -8,7 +8,7 @@ To write a python program to find the distance two 2 points
 
 ### Step 1:
 
-Import the numpy module to use the built-in functions for calculation
+Import the math module to use the built-in functions for calculation
 
 ### Step 2:
 
